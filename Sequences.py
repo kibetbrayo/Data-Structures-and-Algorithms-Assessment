@@ -8,4 +8,4 @@ for i in my_list:
 
 my_list = temporary_list
 
-print("List After removing duplicates ", my_list)
+print(my_list)
